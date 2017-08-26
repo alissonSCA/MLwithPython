@@ -9,7 +9,7 @@ print y
 
 slp = Perceptron()
 slp.fit(X,y)
-
+teste = 10
 errors = 0
 for xi, yi in zip(X,y):
     yh = slp.predict(xi)
