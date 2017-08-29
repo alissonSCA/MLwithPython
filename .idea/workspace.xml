@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aab407fa-4338-4526-a8d1-7060b0f1189d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter-2/testPerceptron.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MLwithPython.iml" afterPath="$PROJECT_DIR$/.idea/MLwithPython.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter-2/testPerceptron.py" afterPath="$PROJECT_DIR$/chapter-2/testPerceptron.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +37,8 @@
       <file leaf-file-name="testPerceptron.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter-2/testPerceptron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="108">
+              <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
               <folding>
                 <element signature="e#18#37#0" expanded="true" />
               </folding>
@@ -74,10 +72,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="x" value="103" />
+    <option name="y" value="242" />
+    <option name="width" value="1297" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1503713881034</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Training a perceptron model on the Iris&#10;dataset">
+      <created>1503930777475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503930777475</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -258,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste de commit pelo PyCharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste de commit pelo PyCharm" />
+    <MESSAGE value="Training a perceptron model on the Iris&#10;dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training a perceptron model on the Iris&#10;dataset" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter-2/testPerceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="108">
+          <caret line="39" column="58" lean-forward="false" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
           <folding>
             <element signature="e#18#37#0" expanded="true" />
           </folding>
